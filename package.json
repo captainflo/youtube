@@ -1,5 +1,5 @@
 {
-  "name": "youtube-react",
+  "name": "youtube",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/captainflo/youtube-react.git"
+    "url": "git+https://github.com/captainflo/youtube.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/captainflo/youtube-react/issues"
+    "url": "https://github.com/captainflo/youtube/issues"
   },
-  "homepage": "https://github.com/captainflo/youtube-react#readme",
+  "homepage": "https://github.com/captainflo/youtube#readme",
   "dependencies": {
     "concurrently": "^5.0.0",
     "express": "^4.17.1",
